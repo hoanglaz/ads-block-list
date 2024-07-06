@@ -1,1 +1,3 @@
 0.0.0.0 ads.motchill.io
+0.0.0.0 https://cloud.motchill-stream.win/common/ads/
+0.0.0.0 https://ads.motchilltv.io/
